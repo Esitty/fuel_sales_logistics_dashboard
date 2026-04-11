@@ -1,24 +1,5 @@
 # Fuel Sales & Logistics Performance Dashboard
 
-An interactive Excel dashboard analyzing both **fuel sales performance** and **logistics operations** across regions and fuel stations.
-
----
-
-## 📊 Dashboard Preview
-
-### Sales Dashboard
-
-![Sales Dashboard](Sales_dashboard.png)
-
-### Logistics Dashboard
-
-![Logistics Dashboard](Logistics_dashboard.png)
-
----
-
-
-# Fuel Sales & Logistics Performance Dashboard
-
 An Excel dashboard analyzing fuel sales performance and logistics operations across regions and stations, built to answer real operational questions about revenue, delivery efficiency, and demand patterns.
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
@@ -37,6 +18,18 @@ Fuel distributors operating across multiple regions and stations face a recurrin
 - Where are delivery costs disproportionately high compared to revenue generated?
 
 This project consolidates sales and logistics data into two interactive dashboards so stakeholders can answer these questions without switching between spreadsheets.
+
+---
+
+## 📊 Dashboard Preview
+
+### Sales Dashboard
+
+![Sales Dashboard](Sales_dashboard.png)
+
+### Logistics Dashboard
+
+![Logistics Dashboard](Logistics_dashboard.png)
 
 ---
 
