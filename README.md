@@ -80,9 +80,9 @@ Chose to surface 7 KPIs prominently at the top of each dashboard — the numbers
 
 ### Logistics Dashboard
 
-- **Delivery efficiency of 4.3%** means logistics cost consumes less than 5 cents of every GHS 1 of revenue — a healthy ratio. Worth tracking per-litre as volumes scale.
+- **Delivery efficiency of 4.3%** means logistics cost consumes less than 5 cents of every GHS 1 of revenue, a healthy ratio. Worth tracking per-litre as volumes scale.
 
-- **Eastern and Greater Accra have the highest delivery volumes, yet Central leads in revenue.** This mismatch warrants further investigation — are Eastern/Greater Accra stations operating on lower margins?
+- **Eastern and Greater Accra have the highest delivery volumes, yet Central leads in revenue.** This mismatch warrants further investigation are Eastern/Greater Accra stations operating on lower margins?
 
 - **Monthly delivery peaks around mid-year** suggest seasonal demand. Aligning logistics capacity planning to this pattern could reduce operational strain during peak months.
 
@@ -131,7 +131,7 @@ Chose to surface 7 KPIs prominently at the top of each dashboard — the numbers
 
 ## 💼 Transferable Skills Demonstrated
 
-- Translating operational data into business-ready insights — applicable across supply chain, retail, energy, and FMCG sectors
+- Translating operational data into business-ready insights applicable across supply chain, retail, energy, and FMCG sectors
 - Structuring analysis around distinct stakeholder needs (sales team vs. logistics team)
 - Designing interactive dashboards that allow non-technical users to explore data independently
 - Identifying operational inefficiencies and revenue patterns from raw transactional data
