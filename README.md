@@ -11,7 +11,7 @@ An interactive dashboard analyzing fuel sales performance and logistics operatio
 
 | Dashboard | Link |
 |---|---|
-| Fuel Sales Performance | [View on Tableau Public] (https://public.tableau.com/app/profile/henrietta.mensah/viz/fuel_sales_logistics_dashboard_rev/FuelSalesdashboard) |   
+| Fuel Sales Performance | [View on Tableau Public](https://public.tableau.com/app/profile/henrietta.mensah/viz/fuel_sales_logistics_dashboard_rev/FuelSalesdashboard) |   
 | Logistics & Operations | [View on Tableau Public](https://public.tableau.com/app/profile/henrietta.mensah/viz/fuel_sales_logistics_dashboard_rev/LogisticsOperationsDashboard) |
 
 ---
@@ -141,7 +141,7 @@ Documented the differences between both versions to demonstrate analytical matur
 | `fuel_sales_logistics_dashboard.pdf` | Static export for quick preview without Excel |
 | `fuel_sales_logistics_dataset.csv` | Raw dataset used for analysis |
 | `Sales_Dashboard.png` | Screenshot of sales dashboard |
-| `Logistics_&_Opertions_Dashboard.png` | Screenshot of logistics dashboard |
+| `Logistics_&_Operations_Dashboard.png` | Screenshot of logistics dashboard |
 
 ---
 
