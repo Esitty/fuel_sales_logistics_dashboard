@@ -1,6 +1,6 @@
 # Fuel Sales & Logistics Performance Dashboard
 
-An interactive dashboard analyzing fuel sales performance and logistics operations across regions and stations, built in both Excel and Tableau to demonstrate how the same dataset can be approached differently across tools.
+An interactive dashboard analyzing fuel sales performance and logistics operations across regions and fuel retail outlets (stations), built in both Excel and Tableau to demonstrate how the same dataset can be approached differently across tools.
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
@@ -18,7 +18,7 @@ An interactive dashboard analyzing fuel sales performance and logistics operatio
 
 ## 🎯 Business Problem
 
-Fuel distributors operating across multiple regions and stations face a recurring challenge: revenue and delivery data exist in separate operational reports, making it difficult to answer critical questions all at once:
+Fuel distribution & operations across multiple regions and fuel retail outlets face a recurring challenge, revenue and delivery data exist in separate operational reports, making it difficult to answer critical questions all at once:
 
 - Which fuel types and regions are driving the most revenue?
 - Are high-revenue regions also the most efficient to serve logistically?
@@ -61,9 +61,9 @@ This project was deliberately built in both tools to demonstrate analytical judg
 | Aspect | Excel version | Tableau version |
 |---|---|---|
 | Filtering | Slicers connected to pivot charts | Interactive dropdowns applied across all charts simultaneously |
-| Combo chart | Not built — difficult to achieve cleanly | Revenue bars + delivery cost line overlay per region |
-| Sharing | Requires Excel to open and interact | Live and interactive on Tableau Public — no software needed |
-| Colour design | Multi-colour bars per category | Single-colour bars — colour only used where it adds analytical value |
+| Combo chart | Not built, difficult to achieve cleanly | Revenue bars + delivery cost line overlay per region |
+| Sharing | Requires Excel to open and interact | Live and interactive on Tableau Public no software needed |
+| Colour design | Multi-colour bars per category | Single-colour bars colour only used where it adds analytical value |
 | Calculated fields | Formulas in pivot table | Calculated field: SUM(Profit) ÷ SUM(Revenue) for margin |
 | Best for | Business users who work in Excel daily | Sharing with wider audiences and web publishing |
 
@@ -111,7 +111,7 @@ Documented the differences between both versions to demonstrate analytical matur
 | Sales | Revenue by fuel type (pie) | Which fuel drives our business? |
 | Sales | Revenue by region | Where are our strongest markets? |
 | Sales | Top 5 stations by revenue | Which stations should we learn from? |
-| Sales | Profit margin by fuel type | Which fuel is most profitable — not just highest revenue? |
+| Sales | Profit margin by fuel type | Which fuel is most profitable not just highest revenue? |
 | Logistics | Monthly delivery volume trend | Are deliveries aligned with demand cycles? |
 | Logistics | Delivery cost by fuel type | Which fuel type is most expensive to move? |
 | Logistics | Delivery volume by region | Where do we move the most fuel? |
@@ -124,11 +124,11 @@ Documented the differences between both versions to demonstrate analytical matur
 
 | Tool / Technique | How It Was Used |
 |---|---|
-| Microsoft Excel | Primary analysis environment — pivot tables, charts, slicers, KPI cards |
-| Tableau Public | Interactive web dashboard — calculated fields, combo charts, dropdown filters, dual-axis chart |
+| Microsoft Excel | Primary analysis environment: pivot tables, charts, slicers, KPI cards |
+| Tableau Public | Interactive web dashboard: calculated fields, combo charts, dropdown filters, dual-axis chart |
 | Pivot Tables | Aggregating revenue, cost, profit, and delivery metrics by region, fuel type, station, and month |
 | Calculated Fields | Profit margin (profit ÷ revenue), delivery efficiency (delivery cost ÷ revenue), percent of total for pie chart |
-| Dual-Axis Chart | Revenue bars + delivery cost line overlay — showing both metrics in one view per region |
+| Dual-Axis Chart | Revenue bars + delivery cost line overlay, showing both metrics in one view per region |
 | KPI Cards | Summary metrics at the top of each dashboard for executive-level readability |
 
 ---
@@ -137,7 +137,7 @@ Documented the differences between both versions to demonstrate analytical matur
 
 | File | Description |
 |---|---|
-| `fuel_sales_logistics_dashboard.xlsx` | Interactive Excel dashboard with slicers — full functionality |
+| `fuel_sales_logistics_dashboard.xlsx` | Interactive Excel dashboard with slicers full functionality |
 | `fuel_sales_logistics_dashboard.pdf` | Static export for quick preview without Excel |
 | `fuel_sales_logistics_dataset.csv` | Raw dataset used for analysis |
 | `Sales_Dashboard.png` | Screenshot of sales dashboard |
@@ -151,7 +151,7 @@ Documented the differences between both versions to demonstrate analytical matur
 - Making deliberate design decisions and being able to explain the reasoning behind them
 - Translating operational data into business-ready insights for both sales and logistics audiences
 - Building interactive dashboards that allow non-technical users to explore data independently
-- Identifying where operational inefficiency creates financial cost — not just describing what the data shows
+- Identifying where operational inefficiency creates financial cost, not just describing what the data shows
 
 ---
 
