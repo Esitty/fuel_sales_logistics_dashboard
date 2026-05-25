@@ -99,7 +99,7 @@ Documented the differences between both versions to demonstrate analytical matur
 
 ### Sales Dashboard
 
-- **LPG has the highest profit margin at 22.2%**, despite being the lowest revenue fuel type. Petrol drives 51% of revenue but earns only 16.0% margin — meaning volume and profitability tell different stories that both matter for business decisions.
+- **LPG has the highest profit margin at 22.2%**, despite being the lowest revenue fuel type. Petrol drives 51% of revenue but earns only 16.0% margin, meaning volume and profitability tell different stories that both matter for business decisions.
 
 - **Eastern region leads in revenue at GHS 315K.** Station 1 is the top performer, the performance gap between top and bottom stations suggests an opportunity to investigate what drives Station 1's results and replicate them elsewhere.
 
@@ -171,7 +171,7 @@ Documented the differences between both versions to demonstrate analytical matur
 
 ## 💼 Transferable Skills Demonstrated
 
-- Working across multiple BI tools on the same analytical problem — Excel and Tableau
+- Working across multiple BI tools on the same analytical problem, Excel and Tableau
 - Making deliberate design decisions and being able to explain the reasoning behind them
 - Translating operational data into business-ready insights across sales, logistics and stock management audiences
 - Building interactive dashboards that allow non-technical users to explore data independently
